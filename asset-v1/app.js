@@ -25,11 +25,11 @@ var app = new function() {
         color: "6C736D",
         uniqsnd: !1
     }, {
-        name: "7_",
+        name: "7_ziggurat",
         color: "6C736D",
         uniqsnd: !0
     }, {
-        name: "8_ziggurat",
+        name: "8_",
         color: "6C736D",
         uniqsnd: !0
     }, {
