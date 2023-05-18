@@ -9,7 +9,7 @@ var app = new function() {
         color: "5B432E",
         uniqsnd: !0
     }, {
-        name: "3_",
+        name: "3_james",
         color: "5B432E",
         uniqsnd: !0
     }, {
