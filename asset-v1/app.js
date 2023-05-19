@@ -1,6 +1,6 @@
 /*This mod is as good as Evadare.*/
 var app = new function() {
-    this.name = "Ancient", this.version = "1", this.date = "2023", this.folder = "asset-v1/", this.looptime = 10666, this.bpm = 90, this.totalframe = 260, this.nbpolo = 3, this.nbloopbonus = 8, this.bonusloopA = !0, this.bonusendloopA = !1, this.recmaxloop = 36, this.recminloop = 4, this.recmintime = Math.round(this.looptime / 1e3) * this.recminloop, this.spritepolo = "polo-sprite.png", this.spritepicto = "game-picto.png", this.colBck = "#2D8723", this.col0 = "#3B9E21", this.col1 = "#42AA20", this.col2 = "#49B51F", this.col3 = "#56C129", this.col4 = "#62CD32", this.animearray = [{
+    this.name = "Ancient", this.version = "1", this.date = "2023", this.folder = "asset-v1/", this.looptime = 10666, this.bpm = 90, this.totalframe = 260, this.nbpolo = 7, this.nbloopbonus = 8, this.bonusloopA = !0, this.bonusendloopA = !1, this.recmaxloop = 36, this.recminloop = 4, this.recmintime = Math.round(this.looptime / 1e3) * this.recminloop, this.spritepolo = "polo-sprite.png", this.spritepicto = "game-picto.png", this.colBck = "#2D8723", this.col0 = "#3B9E21", this.col1 = "#42AA20", this.col2 = "#49B51F", this.col3 = "#56C129", this.col4 = "#62CD32", this.animearray = [{
         name: "1_quinn",
         color: "5B432E",
         uniqsnd: !0
